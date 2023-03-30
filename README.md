@@ -1,6 +1,6 @@
 Hi there 👋
 
-My name is Tommy Puntillo. I'm beginning my journey into DevOps and I'm very excited to see what opportunities this will bring. I'm interested in all things AWS, Python, Docker and Terraform  
+My name is Tommy Puntillo. I'm beginning my journey into DevOps and I'm very excited to see what opportunities this will bring! I'm interested in all things AWS, Python, Docker and Terraform  
 
 Find out more about me & feel free to connect with me here:
 
