@@ -8,7 +8,7 @@ Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Thomas%20Puntillo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomas-puntillo)](https://www.linkedin.com/in/thomas-puntillo/)
 [![Medium Badge](https://img.shields.io/badge/Thomas%20Puntillo-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@tom.puntillo)](https://medium.com/@tom.puntillo/)
-[![Gmail Badge](https://img.shields.io/badge/-Broadus@Levelupintech.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tom.puntillo@gmail.com)](mailto:tom.puntillo@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-tom.puntillo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tom.puntillo@gmail.com)](mailto:tom.puntillo@gmail.com)
 
 ## ⚡ Technologies
 
